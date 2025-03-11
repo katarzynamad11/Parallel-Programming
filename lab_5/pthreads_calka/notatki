@@ -1,0 +1,66 @@
+Podaj wysokość pojedynczego trapezu:  0.1
+
+Poczatek obliczeń sekwencyjnych
+Obliczona liczba trapezów: N = 32, dx_adjust = 0.098175
+
+Koniec obliczen sekwencyjnych
+	Czas wykonania 0.000205. 	Obliczona całka = 1.998393360970144
+
+Poczatek obliczeń równoległych (zrównoleglenie pętli)
+Obliczona liczba trapezów: N = 32, dx_adjust = 0.098175
+
+
+-----------------------------------------------------------------------------------------
+
+Podaj wysokość pojedynczego trapezu:  0.001
+
+Poczatek obliczeń sekwencyjnych
+Obliczona liczba trapezów: N = 3142, dx_adjust = 0.001000
+
+Koniec obliczen sekwencyjnych
+	Czas wykonania 0.000197. 	Obliczona całka = 1.999999833376545
+
+Poczatek obliczeń równoległych (zrównoleglenie pętli)
+Obliczona liczba trapezów: N = 3142, dx_adjust = 0.001000
+
+-------------------------------------------------------------------------------------------
+
+Podaj wysokość pojedynczego trapezu:  0.0001
+
+Poczatek obliczeń sekwencyjnych
+Obliczona liczba trapezów: N = 31416, dx_adjust = 0.000100
+
+Koniec obliczen sekwencyjnych
+	Czas wykonania 0.003251. 	Obliczona całka = 1.999999998333344
+
+Poczatek obliczeń równoległych (zrównoleglenie pętli)
+Obliczona liczba trapezów: N = 31416, dx_adjust = 0.000100
+----------------------------------------------------------------------------------------------
+
+odaj wysokość pojedynczego trapezu:  0.00001
+
+Poczatek obliczeń sekwencyjnych
+Obliczona liczba trapezów: N = 314160, dx_adjust = 0.000010
+
+Koniec obliczen sekwencyjnych
+	Czas wykonania 0.023581. 	Obliczona całka = 1.999999999983388
+
+Poczatek obliczeń równoległych (zrównoleglenie pętli)
+Obliczona liczba trapezów: N = 314160, dx_adjust = 0.000010
+
+
+
+-----------------------------------------------
+Podaj wysokość pojedynczego trapezu:  0.000001
+
+Poczatek obliczeń sekwencyjnych
+Obliczona liczba trapezów: N = 3141593, dx_adjust = 0.000001
+
+Koniec obliczen sekwencyjnych
+	Czas wykonania 0.144141. 	Obliczona całka = 1.999999999999758
+
+Poczatek obliczeń równoległych (zrównoleglenie pętli)
+Obliczona liczba trapezów: N = 3141593, dx_adjust = 0.000001
+
+
+
